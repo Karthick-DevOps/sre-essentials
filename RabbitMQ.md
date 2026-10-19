@@ -10,11 +10,11 @@ Message:
 
 
 ## AMQP: Advanced Message Queuing Protocol
-Message Queue: 
-	* allows applications to communicate by sending messages to each other
-	* provides temporary message storage when destination program is busy or not connected
-	* is made up of producer, message broker( the message queue software), and a consumer
-	* provides asynchronous communication between producer and consumer
+Message Queue:  
+	* allows applications to communicate by sending messages to each other  
+	* provides temporary message storage when destination program is busy or not connected  
+	* is made up of producer, message broker( the message queue software), and a consumer  
+	* provides asynchronous communication between producer and consumer  
 
 ## RabbitMQ:
 	* a message queue software (message broker/queue manager) that acts an an intermediatary platform where different applications can send and receive messages
