@@ -1,12 +1,12 @@
 ## Rabbitmq core concepts and architecture:
 
-Producer:
-Consumer:
-Queue:
-Exchange:
-Binding:
-Routingkey:
-Message:
+Producer  
+Consumer  
+Queue  
+Exchange  
+Binding  
+Routingkey  
+Message  
 
 
 ## AMQP: Advanced Message Queuing Protocol
